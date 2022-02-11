@@ -1,2 +1,2 @@
 # Waveform-analysis-tutorial
-波形解析のチュートリアルです
+Pandasを用いたPython波形解析のチュートリアルです
